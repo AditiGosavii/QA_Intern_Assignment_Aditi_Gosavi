@@ -12,8 +12,8 @@
 
 ## Submission Links
 
-**GitHub Repository:** https://github.com/AditiGosavi/QA_Intern_Assignment_Aditi_Gosavi
-
+**GitHub Repository:** [https://github.com/AditiGosavi/QA_Intern_Assignment_Aditi_Gosavi
+](https://github.com/AditiGosavii/QA_Intern_Assignment_Aditi_Gosavi/tree/main)
 **Final Explanation Video:** https://drive.google.com/drive/folders/1O6pBMogXSZUtmwEsE5C21y2YVhFJqZpj?usp=drive_link
 
 
